@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ApexClass xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>45.0</apiVersion>
+    <status>Active</status>
+    <description>Apex class for the automatic update of the Mobile field on the Student__c custom object when a new Student__c record is created.</description>
+    <isValid>true</isValid>
+</ApexClass>
